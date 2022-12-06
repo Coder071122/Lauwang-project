@@ -1,0 +1,31 @@
+#navbarfull{
+    background-color: #fe4b09;
+    height: 78px;
+}
+#nav-bar-item{
+    color: white;
+    font-weight: bolder ;
+    padding: 15px;
+    font-size: 16px;
+}
+#nav-bar-item:hover{
+    text-decoration: underline;   
+    font-size: 150%;
+}
+#icon-header{
+    color: white;
+    padding: 15px;
+    font-size: 23px;
+}
+#icon-header:hover{ 
+    font-size: 200%;
+}
+.login{
+    color: white;
+}
+.login:hover{ 
+    color: chartreuse;
+}
+#navbarNav{
+    background-color: #fe4b09;
+}

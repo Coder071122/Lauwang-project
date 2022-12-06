@@ -1,0 +1,75 @@
+.table-item{
+    list-style-type: none;
+    padding: 10px 15px ;
+    margin-right: 15px;
+    width: 100%;
+}
+#Table_User{
+    display: flex;
+    width: 1500px;
+    border-left: 1px solid #282c34;
+    border-right: 1px solid #282c34;
+    border-bottom: 1px solid #282c34;
+  }
+  #Id_User {
+    text-align: center;
+    flex: 1;
+    font-size: 14px;
+    padding: 6px 15px;
+    border-top: 1px solid #282c34;
+    outline: none;
+    font-weight: 600;
+    width: 1%;
+    }
+  #Name_User {
+    text-align: center;
+    flex: 3;
+    font-size: 14px;
+    padding: 6px 15px;
+    border-top: 1px solid #282c34;
+    outline: none;
+    font-weight: 600;
+    width: 40%;
+    }
+  #Number_User {
+    text-align: center;
+    flex: 2;
+    font-size: 14px;
+    padding: 6px 15px;
+    border-top: 1px solid #282c34;
+    outline: none;
+    font-weight: 600;
+    width: 20%;
+  }
+  #Sex_User {
+    text-align: center;
+    flex: 1;
+    font-size: 14px;
+    padding: 6px 15px;
+    border-top: 1px solid #282c34;
+    outline: none;
+    font-weight: 600;
+    width: 10%;
+  }
+  #Email_User {
+    text-align: center;
+    flex: 3;
+    font-size: 14px;
+    padding: 6px 15px;
+    border-top: 1px solid #282c34;
+    outline: none;
+    font-weight: 600;
+    width: 30%;
+    }
+  #Delete_User {
+    flex: 1;
+    font-size: 14px;
+    padding: 6px 15px;
+    border-top: 1px solid #282c34;
+    outline: none;
+    font-weight: 600;
+    width: 10%;
+  }
+  #input{
+    width: 20%;
+  }

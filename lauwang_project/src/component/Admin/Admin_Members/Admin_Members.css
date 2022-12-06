@@ -1,0 +1,44 @@
+.todo-item {
+  list-style-type: none;
+  padding: 10px 15px ;
+  margin-right: 15px;
+}
+.todo-item input {
+  margin-right: 15px;
+}
+#bangkhachhang{
+    display: flex;
+    width: 1500px;
+    border-top: 1px solid #282c34;
+    border-left: 1px solid #282c34;
+    border-right: 1px solid #282c34;
+  }
+  #Hoten {
+    text-align: center;
+    flex: 6;
+    font-size: 14px;
+    padding: 6px 15px;
+    border-bottom: 1px solid #282c34;
+    outline: none;
+    font-weight: 600;
+    width: 50%;
+  }
+  #Sdt {
+    text-align: center;
+    flex: 3;
+    font-size: 14px;
+    padding: 6px 15px;
+    border-bottom: 1px solid #282c34;
+    outline: none;
+    font-weight: 600;
+    width: 40%;
+  }
+  #Xoa {
+    flex: 1;
+    font-size: 14px;
+    padding: 6px 15px;
+    border-bottom: 1px solid #282c34;
+    outline: none;
+    font-weight: 600;
+    width: 10%;
+  }

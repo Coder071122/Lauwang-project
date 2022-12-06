@@ -1,0 +1,56 @@
+img{
+    width: 100%;
+}
+
+section{
+    padding-top: 20px;
+    padding-bottom: 80px;
+    z-index: 10;
+    position: relative;
+}
+
+.section-intro{
+    margin: 40px;
+}
+
+.diliver{
+    height: 5px;
+    width: 70px;
+    margin: 16px auto;
+}
+
+.intro-info p,li{
+    text-align: left;
+}
+
+.intro-img{
+    padding-top: 50px;
+}
+
+#intro{
+    background-color: #f2f0ea !important;;
+    width: 100%;
+    height: 100%;
+}
+
+.label-intro-img{
+    padding-top: 10px;
+}
+
+.label-intro-info{
+    text-align: left;
+}
+
+.flavour-intro-info p,li{
+    text-align: left;
+}
+
+#flavour{
+    background-color: #f2f0ea !important;;
+    width: 100%;
+    height: 100%;
+}
+
+.space-intro-info{
+    text-align: left;
+}

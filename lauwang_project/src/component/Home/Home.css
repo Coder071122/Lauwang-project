@@ -1,0 +1,46 @@
+img{
+    width: 100%;
+}
+
+.slider{
+    width: 100%;
+    height: 100%;
+}
+
+section{
+    padding-top: 30px;
+    padding-bottom: 80px;
+    z-index: 2;
+    position: relative;
+}
+
+
+.story-intro-info{
+    text-align: left;
+}
+
+#story{
+    background-color: #f2f0ea !important;;
+    width: 100%;
+    height: 100%;
+}
+
+.flavour-intro-info{
+    text-align: left;
+}
+
+.menu-intro-img img:hover{
+    margin-top: -10px;
+    transition: 0.25s;
+}
+
+#menu{
+    background-color: #f2f0ea !important;;
+    width: 100%;
+    height: 100%;
+}
+
+.news-intro-img img:hover{
+    margin-top: -10px;
+    transition: 0.25s;
+}

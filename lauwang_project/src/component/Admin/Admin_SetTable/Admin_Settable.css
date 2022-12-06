@@ -1,0 +1,92 @@
+.table-item{
+    list-style-type: none;
+    padding: 10px 15px ;
+    margin-right: 15px;
+    width: 100%;
+}
+#bangdatban{
+    display: flex;
+    width: 1500px;
+    border-left: 1px solid #282c34;
+    border-right: 1px solid #282c34;
+    border-bottom: 1px solid #282c34;
+  }
+  #Mahoadon {
+    text-align: center;
+    flex: 1;
+    font-size: 14px;
+    padding: 6px 15px;
+    border-top: 1px solid #282c34;
+    outline: none;
+    font-weight: 600;
+    width: 10%;
+  }
+  #Hotentab {
+    text-align: center;
+    flex: 2;
+    font-size: 14px;
+    padding: 6px 15px;
+    border-top: 1px solid #282c34;
+    outline: none;
+    font-weight: 600;
+    width: 20%;
+    }
+  #Sdttab {
+    text-align: center;
+    flex: 2;
+    font-size: 14px;
+    padding: 6px 15px;
+    border-top: 1px solid #282c34;
+    outline: none;
+    font-weight: 600;
+    width: 10%;
+  }
+  #Time {
+    text-align: center;
+    flex: 1;
+    font-size: 14px;
+    padding: 6px 15px;
+    border-top: 1px solid #282c34;
+    outline: none;
+    font-weight: 600;
+    width: 10%;
+  }
+  #Slot {
+    text-align: center;
+    flex: 1;
+    font-size: 14px;
+    padding: 6px 15px;
+    border-top: 1px solid #282c34;
+    outline: none;
+    font-weight: 600;
+    width: 10%;
+  }
+  #Total {
+    text-align: center;
+    flex: 2;
+    font-size: 14px;
+    padding: 6px 15px;
+    border-top: 1px solid #282c34;
+    outline: none;
+    font-weight: 600;
+    width: 10%;
+  }
+  #Status {
+    text-align: center;
+    flex: 2;
+    font-size: 14px;
+    padding: 6px 15px;
+    border-top: 1px solid #282c34;
+    outline: none;
+    font-weight: 600;
+    width: 20%;
+  }
+  #Delete {
+    flex: 1;
+    font-size: 14px;
+    padding: 6px 15px;
+    border-top: 1px solid #282c34;
+    outline: none;
+    font-weight: 600;
+    width: 10%;
+  }
